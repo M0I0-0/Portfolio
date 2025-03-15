@@ -1,3 +1,3 @@
 # Portfolio
 
-Hola mi nombre es **Moi** y este es mi portfolio hoa hoal .
+Hola mi nombre es **Moi** y este es mi portfolio.
